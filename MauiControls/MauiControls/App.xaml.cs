@@ -8,7 +8,7 @@
         {
             InitializeComponent();
 
-            MainPage = new NavigationPage(new MauiEditControls());
+            MainPage = new NavigationPage(new MauiCollectionControls());
         }
     }
 }
